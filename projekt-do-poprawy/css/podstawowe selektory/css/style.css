@@ -1,0 +1,8 @@
+
+
+#name hover{background-color: aqua;
+}
+#name:focus{color: blue;
+}
+.castomer:first-child{color: chocolate;
+}

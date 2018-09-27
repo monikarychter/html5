@@ -1,0 +1,8 @@
+[title] {color: aqua;}
+
+[title="About me"]{color: blue;
+}
+[title*="tainer"] {background-color: beige;
+}
+[title^="More"] {color: deeppink;
+}

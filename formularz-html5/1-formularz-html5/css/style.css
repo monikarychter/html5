@@ -1,0 +1,32 @@
+* {
+    color: aliceblue;
+}
+
+form {
+    background-color: #213b50;
+}
+
+input[type="text"] {
+    background-color: darkslateblue;
+}
+
+input[name="lastname"] {
+    background-color: cornflowerblue;
+}
+
+input[type="phone"] {
+    background-color: darkslateblue;
+    border: 20px
+}
+
+
+
+input[type="submit"] {
+    background-color: chartreuse;
+    text-transform: uppercase;
+    border: 1px solid chartreuse;
+    color #fff;
+    padding: 10px 20px;
+    cursor: pointer
+
+}
